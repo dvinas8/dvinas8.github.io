@@ -1,2 +1,7 @@
-# dvinas8.github.io
-dvinas8.github.io/portfolio
+# About Me: 
+## My name is Daniel Vinas and I’m currently a Sophomore at UNC Charlotte majoring in Sports Data Analytics. I am originally from Houston Texas and I moved to Charlotte in 2020. Some of my interests are sports, in particular Soccer,F1,Football, and UFC. As well as video games cars and hanging out with friends.
+
+# Portfolio and Projects:
+
+# Blog:
+## I think learning data science in a social and interdisciplinary context is important because we model social topics and people to better understand patterns that are otherwise invisible at scale: inequality across neighborhoods, disparities in health outcomes, or how policies ripple through communities, because of this we can use data about people to figure out who is benifiting from the analysis as well a who is missing. Data science as a whole is often associated with technical fields like engineering, finance, or computer science, but its importance becomes even clearer when applied in social and interdisciplinary contexts. At its core, data science offers the tools to do things such as model patterns, test assumptions, and make sense of complex systems—and society is one of the most complex systems we study.In this course I hope to better understand how to answer particular social questions as well as how to responsibly do so with ethical awareness as well as learning how to understand people and society better as a whole.
